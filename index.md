@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Sandra Iqbal
+title: ""
 ---
 
 Sandra Iqbal records her subconscious wastewater in Brooklyn, NY.
