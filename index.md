@@ -14,5 +14,5 @@ Sandra Iqbal records her subconscious wastewater in Brooklyn, NY.
 
 ## Contact
 <ul style="margin-top: -10px;">
-<li>sndrqbl@gmail.com</li>
+sndrqbl@gmail.com
 </ul>
