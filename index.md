@@ -8,7 +8,11 @@ title: ""
 Sandra Iqbal records her subconscious wastewater in Brooklyn, NY.
 
 ## Publications
-- "Arabian Nights" - *Bending Genres*, August 2025
+<ul style="margin-top: -10px;">
+<li>"Arabian Nights" - <em>Bending Genres</em>, August 2025</li>
+</ul>
 
-## Contact
-Email: sndrqbl@gmail.com  
+**Contact**
+<ul style="margin-top: -10px;">
+<li>Email: sndrqbl@gmail.com</li>
+</ul>
