@@ -1,3 +1,14 @@
 theme: minima
 title: Sandra Iqbal
 description: Sandra Iqbal records her subconscious wasterwater in Brooklyn, NY.
+
+title: Sandra Iqbal
+description: Sandra Iqbal records her subconscious wasterwater in Brooklyn, NY.
+url: "https://sndrqbl.github.io/website/"
+baseurl: ""
+
+# Author information
+author:
+  name: Sandra Iqbal
+  email: sndrqbl@gmail.com
+  bio: "Sandra Iqbal records her subconscious wasterwater in Brooklyn, NY."
