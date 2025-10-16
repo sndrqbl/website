@@ -5,11 +5,9 @@ title: ""
 
 <br><br>
 
-Sandra Iqbal
-
 ## Publications
 <ul style="margin-top: -10px;">
-<li>"Arabian Nights" - <em>Bending Genres</em>, August 2025</li>
+<li>"Arabian Nights" - <a href="https://bendinggenres.com/arabian-nights/"><em>Bending Genres</em></a>, August 2025</li>
 </ul>
 
 <!--
